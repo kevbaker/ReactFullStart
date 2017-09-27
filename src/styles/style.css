@@ -1,0 +1,4 @@
+/*
+    footer padding to adjust for fixed top navbar
+*/
+body { padding-top: 70px; }
